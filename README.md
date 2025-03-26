@@ -15,16 +15,13 @@ Model: The model is saved and ready for future use.
 #📂 Installation
 Clone the repository:
 
-bash
-Copy
-Edit
+bash:
 git clone https://github.com/yourusername/sms-spam-classifier.git
 cd sms-spam-classifier
-Install dependencies: Ensure you have Python installed, then install the required libraries:
+Install dependencies:
+Ensure you have Python installed, then install the required libraries:
 
-bash
-Copy
-Edit
+bash:
 pip install -r requirements.txt
 
 #📋 How to Use
